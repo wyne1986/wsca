@@ -1,0 +1,22 @@
+{
+  "name": "wsca",
+  "version": "0.1.0",
+  "description": "vue project run websocket use controller-action mode",
+  "keywords": [
+    "websocket",
+    "wsca",
+    "nodejs",
+    "node.js",
+	"vue"
+  ],
+  "author": "wyne1986",
+  "license": "WTFL",
+  "homepage": "https://github.com/wyne1986/wsca",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wyne1986/wsca"
+  },
+  "bugs": {
+    "url": "https://github.com/wyne1986/wsca/issues"
+  }
+}
